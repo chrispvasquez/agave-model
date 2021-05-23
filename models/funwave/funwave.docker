@@ -1,0 +1,14 @@
+FROM stevenrbrandt/science-base
+USER root
+RUN mkdir /model
+RUN chown jovyan /model
+
+COPY runapp.sh /usr/local/bin/runapp.sh
+RUN chmod +x /usr/local/bin/runapp.sh
+
+USER jovyan
+
+WORKDIR /model
+RUN git clone https://github.com/fengyanshi/FUNWAVE-TVD
+WORKDIR /model/FUNWAVE-TVD
+RUN make 
