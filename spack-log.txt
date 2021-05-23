@@ -1,0 +1,35 @@
+Writing run_dir/env.sh...
+Job ID: aaa0009e-3479-42d8-87f2-23e5d93fa01f-007
+SUBMITTING
+QUEUED
+FINISHED
+New models are being installed. This may take a few minutes...
+New models are being installed. This may take a few minutes...
+Writing run_dir/env.sh...
+Job ID: 3a47cfd8-27bc-42ae-a4d6-99beb0efb9ad-007
+Writing run_dir/env.sh...
+Job ID: 81c69056-9a02-4533-b5e4-c00b3083d59f-007
+STAGING_INPUTS
+STAGING_JOB
+SUBMITTING
+QUEUED
+FINISHED
+Writing run_dir/env.sh...
+Job ID: 2fb8553a-2030-4145-b5f9-f5eb6acbb5de-007
+STAGING_INPUTS
+SUBMITTING
+QUEUED
+RUNNING
+FINISHED
+Writing run_dir/env.sh...
+Job ID: c00670e1-9e5d-4204-acd2-4d9bb6bd3a84-007
+STAGING_INPUTS
+STAGING_JOB
+SUBMITTING
+QUEUED
+FINISHED
+Retrieving Model Versions List...
+This may take a few minutes
+Done!
+
+
