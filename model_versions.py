@@ -54,7 +54,7 @@ def tarballHandler(tarName):
     # Extracted files should be a tarball of the source code
     # for the model and a JSON file containing model details
     return untar_path
-           
+#Function to handle untar-ing user's tarballs
     
 def installNewModels():
     
